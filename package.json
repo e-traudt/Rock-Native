@@ -53,7 +53,7 @@
     "codecov": "^2.1.0",
     "cross-env": "^4.0.0",
     "danger": "https://github.com/delianides/danger-js/releases/download/0.14.2/danger-0.14.2.tgz",
-    "enzyme": "^2.8.0",
+    "enzyme": "^2.8.1",
     "eslint": "^3.18.0",
     "eslint-loader": "^1.6.3",
     "eslint-plugin-prettier": "^2.0.1",
