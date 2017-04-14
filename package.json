@@ -70,7 +70,7 @@
     "react-test-renderer": "~15.4.1",
     "rnpm-plugin-windows": "^0.2.4",
     "selenium-webdriver": "^3.3.0",
-    "webpack": "^2.3.0",
+    "webpack": "^2.4.1",
     "webpack-dev-server": "^2.4.2"
   },
   "jest": {
